@@ -1,0 +1,3 @@
+list_parcs:
+    path:     /listParcs
+    defaults: { _controller: ParcsBundle:Default:List }
